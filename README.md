@@ -147,6 +147,6 @@ C++ (Arduino framework for ESP32), HTML/CSS/JavaScript (control page), WiFi + HT
 - [Ek real challenge jo tumhe aaya aur kaise solve kiya]
 - [Ek cheez jo is project se seekhi]
 
-## 👤 Author
-Abhaypratap Sikarwar
-[LinkedIn](https://www.linkedin.com/in/abhay-sikarwar-a5b9792b1/)
+ ## 👤 Author
+   Abhaypratap Sikarwar
+   [LinkedIn](https://www.linkedin.com/in/abhaypratap-sikarwar-a5b9792b1/) | [Portfolio](https://abhaysikarwar.netlify.app) | [Portfolio 2](https://abhaysikarwar326.netlify.app)
