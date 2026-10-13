@@ -139,13 +139,13 @@ Phone/laptop and both boards must be on the **same WiFi network**.
 C++ (Arduino framework for ESP32), HTML/CSS/JavaScript (control page), WiFi + HTTP (WebServer, MJPEG streaming)
 
 ## 📸 Demo
-[Boat ki photo / video yahan lagao]
+
 
 ![Boat](boat.jpg)
 
 ## 🧠 Challenges & Learnings
-- [Ek real challenge jo tumhe aaya aur kaise solve kiya]
-- [Ek cheez jo is project se seekhi]
+- Challenge: Designing a boat that could collect floating waste while maintaining stability on water.
+- - Learned: Gained hands-on experience with microcontrollers, sensors, motors, and IoT-based automation.
 
  ## 👤 Author
    Abhaypratap Sikarwar
